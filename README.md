@@ -16,9 +16,9 @@ Host     Container    Protocol    Host         Container Name         Compose Pr
 ```
 
 ### Basic usage
-1. Clone the repository or copy the contents of docker-ports.sh to the Linux machine running your Docker containers.
-2. Make the script executable: chmod +x docker-ports.sh.
-3. Run the script: ./docker-ports.sh or /path/to/docker-ports.sh.
+1. Clone the repository or copy the contents of `docker-ports.sh` to the Linux machine running your Docker containers.
+2. Make the script executable: `chmod +x docker-ports.sh`.
+3. Run the script: `./docker-ports.sh` or `/path/to/docker-ports.sh`.
 
 
 Contributions, ideas, and suggestions are welcome.
